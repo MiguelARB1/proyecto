@@ -1,4 +1,4 @@
-print("bienvenido Miguel Ramos")
+print("bienvenido Miguel Ramos Baldeon")
 
 numero = int(input("Escriba un numero positivo:"))
 if numero<0:
