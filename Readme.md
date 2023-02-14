@@ -6,9 +6,9 @@
 # OBJETIVO
 **IMPLEMENTAR ** UN APLICATIVO PARA CALCULAR EL SUELDO A PAGAR DE LA EMPRESA HORIZONTE SAC
 ## EQUIPO DE DESARROLLO
-Integrante | Apellidos y nombres de los integrantes del equipo de desarrollo (ordenado alfabéticamente)
----------- | ------------------------------------------------------------------------------------------
-1 | RAMOS BALDEON MIGUEL ALDO	
+Integrante | Apellidos y nombres de los integrantes del equipo de desarrollo (ordenado alfabéticamente) | ROL
+---------- | ------------------------------------------------------------------------------------------ | ---
+1 | RAMOS BALDEON MIGUEL ALDO	| GITPRR
 ## HISTORIAL DE USUARIO
 ### TERCER SPRINT
 ## R RR
