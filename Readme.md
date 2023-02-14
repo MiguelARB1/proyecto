@@ -6,8 +6,9 @@
 # OBJETIVO
 **IMPLEMENTAR ** UN APLICATIVO PARA CALCULAR EL SUELDO A PAGAR DE LA EMPRESA HORIZONTE SAC
 ## EQUIPO DE DESARROLLO
-Identificador | HU002
-MIGUEL ALDO | 75139275
+Integrante | Apellidos y nombres de los integrantes del equipo de desarrollo (ordenado alfabéticamente)
+---------- | ------------------------------------------------------------------------------------------
+1 | RAMOS BALDEON MIGUEL ALDO	
 ## HISTORIAL DE USUARIO
 ### TERCER SPRINT
 ## R RR
