@@ -4,7 +4,7 @@
 ![](/IMAGENES/rio_portada.jpg)
 
 # OBJETIVO
-**IMPLEMENTAR ** UN APLICATIVO PARA CALCULAR EL SUELDO A PAGAR DE LA EMPRESA HORIZONTE SAC
+**IMPLEMENTAR** UN APLICATIVO PARA CALCULAR EL SUELDO A PAGAR DE LA EMPRESA HORIZONTE SAC
 ## EQUIPO DE DESARROLLO
 Integrante | Apellidos y nombres de los integrantes del equipo de desarrollo (ordenado alfabéticamente) | ROL
 ---------- | ------------------------------------------------------------------------------------------ | ---
